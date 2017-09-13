@@ -11,7 +11,7 @@
 `git status` shows files that have changed or are untracked  
 `git diff [optional: filename]` shows the changes themselves
 
-#### 2. “Stage” the things you want to include in your commit
+#### 2. “Stage” the files you want to include in your commit
 This includes both files that have changed and new files you want to add.
 
 `git add <file or directory>`
