@@ -13,7 +13,7 @@
 ## Step 2a:  Let's add a couple of files
 - Add a Markdown file:  `holiday.md`
   - add a line with an emoji
-  - I added:  _Looking forward to the party :cake: ! :smiley:_
+  - I added:  _Looking forward to the party :pizza: ! :smiley:_
 - Add a Python file:  `hello.py`
   - add a line, the ubiquitous:  `print("Hello World")`
   
@@ -45,12 +45,12 @@ For me, it is:
 ```
 
 ### Clone repo
-`git clone https://github.com/reshama/starting_git.git`  
+`git clone https://github.com/reshamas/starting_git.git`  
 
 >my example  
 ```bash
 ~/git_work  master ✗                                                                  ◒  
-▶ git clone https://github.com/reshama/starting_git.git
+▶ git clone https://github.com/reshamas/starting_git.git
 Cloning into 'starting_git'...
 remote: Counting objects: 15, done.
 remote: Compressing objects: 100% (10/10), done.
@@ -85,8 +85,8 @@ Note:
 >my example  
 ```bash
 ▶ git remote -v
-origin	https://github.com/reshama/starting_git.git (fetch)
-origin	https://github.com/reshama/starting_git.git (push)
+origin	https://github.com/reshamas/starting_git.git (fetch)
+origin	https://github.com/reshamas/starting_git.git (push)
 ```
 
 ### We can 'pull' updates from GitHub version
