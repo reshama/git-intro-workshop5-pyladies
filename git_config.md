@@ -43,7 +43,7 @@ nano /Users/reshamashaikh/.gitconfig
         clean = git media clean %f
         smudge = git media smudge %f
 [user]
-        name = reshama
+        name = reshamas
         email = rs2715@gmail.com
         password = 123456789
 [reshama]
