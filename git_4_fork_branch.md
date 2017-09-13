@@ -3,12 +3,12 @@
 ### Go to repo on GitHub
 In my personal account on GitHub, go to repo to be cloned.
 
-In this example, it is:  https://github.com/joelgrus/data-science-from-scratch
+In this example, it is: https://github.com/WiMLDS/python_advanced
 
 ### Fork repo
 Upper right of github page:  "Fork" the repo
 
-Go to my forked repo: https://github.com/reshama/data-science-from-scratch
+Go to my forked repo: https://github.com/reshamas/python_advanced.git
 
  
 ### Clone repo
@@ -41,10 +41,10 @@ In right column, find the link to **HTTPS clone URL** and **copy** that URL to b
 In terminal: 
 * `cd` in to directory where repo will be cloned
 * clone repo:   `git clone <url goes here>`
- - Example:  `git clone https://github.com/reshama/data-science-from-scratch.git`
+ - Example:  `git clone https://github.com/reshamas/data-science-from-scratch.git`
 * `cd` into cloned repo
 ```bash
-▶ git clone https://github.com/reshama/data-science-from-scratch.git
+▶ git clone https://github.com/reshamas/data-science-from-scratch.git
 Cloning into 'data-science-from-scratch'...
 remote: Counting objects: 117, done.
 remote: Total 117 (delta 0), reused 0 (delta 0), pack-reused 117
@@ -81,8 +81,8 @@ drwxr-xr-x  37   1258 Nov 14 11:29 code
 #### List remotes
 ```bash
 ▶ git remote -v
-origin	https://github.com/reshama/data-science-from-scratch.git (fetch)
-origin	https://github.com/reshama/data-science-from-scratch.git (push)
+origin	https://github.com/reshamas/data-science-from-scratch.git (fetch)
+origin	https://github.com/reshamas/data-science-from-scratch.git (push)
 
 ~/git_work/data-science-from-scratch  master ✔                                     498d  
 ▶ 
