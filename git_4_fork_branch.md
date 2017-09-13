@@ -124,7 +124,7 @@ Switched to branch 'reshama_wip'
 
 ---
 
-###Copy file/folder from one branch to current branch (`master`)
+### Copy file/folder from one branch to current branch (`master`)
 
 Run this from the branch where you want the file to end up:  
 on:  `master` branch
