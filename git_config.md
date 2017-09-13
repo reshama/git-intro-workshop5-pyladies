@@ -47,7 +47,7 @@ nano /Users/reshamashaikh/.gitconfig
         email = rs2715@gmail.com
         password = 123456789
 [reshama]
-        name = reshama
+        name = reshamas
         email = rs2715@stern.nyu.edu
 [push]
         default = simple
