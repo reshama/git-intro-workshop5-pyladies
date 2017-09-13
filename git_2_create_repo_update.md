@@ -10,7 +10,7 @@
 - Check box for `Initialize this repository with a README`
 - Select green button `Create repository`
 
-## Step 2a:  Let's add a couple of files
+## Step 2:  Let's add a couple of files
 - Add a Markdown file:  `holiday.md`
   - add a line with an emoji
   - I added:  _Looking forward to the party :pizza: ! :smiley:_
@@ -19,17 +19,7 @@
   
 **Note:  add a meaningful commit message**  
 
-
-## Step 2b:  Let's delete (`git rm`) and rename (`git mv`) some files
-- do examples
-  
-
-## Step 3:  Add collaborators (if you would like to share)
-
-- Settings / Collaborators
-- add GitHub username
-
-## Step 4:  Clone repo
+## Step 3:  Clone repo
 
 ### Select green button "Clone or download" and copy url
 
@@ -44,7 +34,7 @@ For me, it is:
 /Users/reshamashaikh/git_work
 ```
 
-### Clone repo
+#### Clone repo
 `git clone https://github.com/reshamas/starting_git.git`  
 
 >my example  
@@ -95,7 +85,7 @@ origin	https://github.com/reshamas/starting_git.git (push)
 Already up-to-date.
 ```
 
-##Step 5:  Make changes on local computer 
+## Step 4:  Make changes on local computer 
 
 ### Let's make a change on local computer and push changes up to GitHub
 Use an editor of your choice to create a python file which will print your name.  
@@ -132,5 +122,16 @@ nothing added to commit but untracked files present (use "git add" to track)
 ~/git_work/starting_git  master ✗                                                 14m ◒  
 ▶ 
 ```
+---
+
+## Extra
+## Let's delete (`git rm`) and rename (`git mv`) some files
+- do examples
+  
+
+## Add collaborators (if you would like to share)
+
+- Settings / Collaborators
+- add GitHub username
 
 
