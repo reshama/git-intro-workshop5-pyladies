@@ -29,9 +29,13 @@ Email:   rs2715@stern.nyu.edu
 
 ---
 
+### Installation
+This workshop covers Git CLI (command line interface).  [It does not use Git GUI.]  
+* [Getting Started:  Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+
 ### Prerequisites
-* Create a GitHub account (save your user id & password somewhere that is easy to find)
-* Unix access (Mac / Ubuntu-Linux)
+* Create a GitHub account (save your user ID & password somewhere that is easy to find)
+* Unix access (Mac / Ubuntu-Linux) or shell access for Windows
 * Git Installation
   - Install Git
   - Confirm installation with `git --version`
@@ -47,11 +51,6 @@ Email:   rs2715@stern.nyu.edu
      - add collaborators 
      - create a branch and work from it
      - undo Git changes
-
-### Installation
-This workshop covers Git CLI (command line interface).  [It does not use Git GUI.]  
-[Getting Started:  Installing Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
- 
      
 ### Workshop Documents
 - [Git terminology](git_0_intro.md)
