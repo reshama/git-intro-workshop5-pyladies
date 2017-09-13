@@ -8,13 +8,13 @@ task:  end changes from local computer to GitHub repo (sync repos)
 |  2    | `git commit -m "message"` | log the change | changes are recorded in Git |  
 |  3    | `git push`                | finalize the change | changes are pushed from Git (local, terminal) to GitHub (browser account) | 
  
---
+---
 
 ## Git Flow Analogy
 ![git flow](images/git_diagram.png)
 
 
---
+---
 
 ## Git:  add, commit and push a file
 
