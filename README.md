@@ -19,7 +19,7 @@ Email:   rs2715@stern.nyu.edu
 [NYC PyLadies Git Workshop, Sep 13, 2017](https://www.meetup.com/NYC-PyLadies/events/242532809/)
 
 #### Host
-[iHeartMedia](https://www.iheartmedia.com/)
+[iHeartMedia](https://www.iheartmedia.com/) Thank you for hosting us! :star:
 
 #### Helpers (Teaching Assistants)
 * [Emily Chen](https://www.linkedin.com/in/emchennyc/)
