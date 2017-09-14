@@ -2,8 +2,6 @@
 
 [A)  Add, commit, push a file](#section-a)  
 [B)  Deleting & copying (moving) files in Git](#section-b)  
-[C)  Branches](#section-c)  
-
 
 ## <a name="section-a"></a>A)  Add, commit, push a file
 
@@ -23,6 +21,7 @@ This includes both files that have changed and new files you want to add.
 #### 4. Push to the origin repo
 syntax:  
 `git push <remote> <branch>`  
+example:  
 `git push origin master`
 
 #### Adding, committing a file
