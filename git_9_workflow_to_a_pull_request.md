@@ -1,9 +1,17 @@
 # Workflow to a Pull Request
 
-### Step 1:  fork the repo
+
+[Step 1:  fork the repo](#section-1)  
+[Step 2:  clone the repo](#section-2)  
+[Step 1:  fork the repo](#section-1)  
+[Step 1:  fork the repo](#section-1)  
+[Step 1:  fork the repo](#section-1)  
+
+
+### <a name="section-1"></a>Step 1:  fork the repo
 https://github.com/WiMLDS/python_advanced
 
-### Step 2:  clone the repo
+### <a name="section-2"></a>Step 2:  clone the repo
 syntax:  
 `git clone <url>`  
 >example:  
