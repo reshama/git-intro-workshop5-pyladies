@@ -89,7 +89,7 @@ Hello, my name is Reshama
 ▶ 
 ```
 
-### We made a change!  How does git track it?
+### We made a change!  How does git track it? `git status`
 To see what changes have been made since last `git pull`, type `git status`  
 ```bash
 ▶ git status
@@ -105,7 +105,8 @@ nothing added to commit but untracked files present (use "git add" to track)
 ~/git_work/starting_git  master ✗                                                 14m ◒  
 ▶ 
 ```
+---
 
-**Next up:  how do we send those changes up to GitHub?** :boom:
+## Next up:  how do we send those changes up to GitHub? :boom:
 
 
