@@ -1,8 +1,5 @@
-# Working with Branches
-
----
-## Branches
-Branching means you diverge from the main line of development and continue to do work without changing the main line
+# Branches
+* Branching means you diverge from the main line of development and continue to do work without changing the main line
 
 ### Why use branches?
  * independent line of development
