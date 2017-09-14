@@ -89,7 +89,7 @@ Hello, my name is Reshama
 ▶ 
 ```
 
-### We made a change!  How does git track it? `git status`
+## We made a change!  How does git track it? `git status`
 To see what changes have been made since last `git pull`, type `git status`  
 ```bash
 ▶ git status
