@@ -11,7 +11,7 @@ syntax:
 
 
 ### Step 3:  add an `upstream` remote
-syntax:
+syntax:  
 `git remote add upstream <original url>`  
 >example:  
 `git remote add upstream https://github.com/WiMLDS/python_advanced.git`
@@ -22,7 +22,7 @@ create new branch:  `git branch reshama_wip`
 
 ### Step 4:  switch to working branch
 syntax:  
-`git checkout <branch_name>
+`git checkout <branch_name>`
 >example:  
 `git checkout reshama_wip`
 
