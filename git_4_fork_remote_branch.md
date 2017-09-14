@@ -40,9 +40,12 @@ In right column, find the link to **HTTPS clone URL** and **copy** that URL to b
 
 In terminal: 
 * `cd` in to directory where repo will be cloned
+ - Example:  `cd /Users/reshamashaikh/git_work`
 * clone repo:   `git clone <url goes here>`
  - Example:  `git clone https://github.com/reshamas/data-science-from-scratch.git`
 * `cd` into cloned repo
+ - Example:  `cd data-science-from-scratch`
+
 ```bash
 ▶ git clone https://github.com/reshamas/data-science-from-scratch.git
 Cloning into 'data-science-from-scratch'...
@@ -53,7 +56,7 @@ Resolving deltas: 100% (43/43), done.
 Checking connectivity... done.
 ```
 
-`cd` into clone repo:  
+`cd` into cloned repo:  
 ```bash
 ▶ ls
 total 0
@@ -95,6 +98,7 @@ origin	https://github.com/reshamas/data-science-from-scratch.git (push)
 ~/git_work/data-science-from-scratch  master ✔                                     498d  
 ▶ 
 ```
+
 # Branches
 Branching means you diverge from the main line of development and continue to do work without changing the main line
 
@@ -145,9 +149,6 @@ git checkout branch_wip myfile.txt
 
 ---
 
-**Do this one time only**
-
-`$ git config --global push.default simple`
 
 
 
