@@ -1,6 +1,8 @@
 # Working with Branches
 
-[Helpful Tutorial:  Using Branches on Git](https://www.atlassian.com/git/tutorials/using-branches)  
+---
+## Branches
+Branching means you diverge from the main line of development and continue to do work without changing the main line
 
 ### Why use branches?
  * independent line of development
@@ -11,10 +13,25 @@
     * it gives you the chance to clean up your feature’s history before merging it into the main branch
 
 
+---
+### Create a branch
+```bash
+git branch
+git branch reshama_wip
+git branch
+```
+
+### Switch to working branch
+```bash
+git checkout reshama_wip
+```
 
 ---
 
 **Note:  'wip' = 'work in progress'**    
+
+---
+## Branch Commands
 
  * **List branches**  
     `$ git branch`
@@ -56,3 +73,14 @@ on:  `master` branch
 git checkout branch_wip myfolder/** 
 ```
 
+---
+
+### Aside: Working Practice
+#### Launch notebook from working branch (leave master branch intact)
+```bash
+~/git_work/data-science-from-scratch  reshama_wip ✔                                498d  
+▶ jupyter notebook
+```
+
+### Resource for Tutorial
+[Helpful Tutorial:  Using Branches on Git](https://www.atlassian.com/git/tutorials/using-branches)  
