@@ -38,11 +38,6 @@ Example:
 * `upstream` [organization repo]
 * `origin`   [your forked repo]
 
-## Branches
-Branching means you diverge from the main line of development and continue to do work without changing the main line. 
 
-
-## Account settings
-- review account options
 
  
