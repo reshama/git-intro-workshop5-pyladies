@@ -58,7 +58,7 @@ git checkout reshama_wip
 
 ---
 ## Pushing to Branches
-`git push <remote_name> <branch_name>`
+`git push <remote_name> <branch_name>`  
 Example:    
 `git push origin reshama_wip`
 
