@@ -127,11 +127,6 @@ nothing added to commit but untracked files present (use "git add" to track)
 ## Extra
 ## Let's delete (`git rm`) and rename (`git mv`) some files
 - do examples
-  
 
-## Add collaborators (if you would like to share)
-
-- Settings / Collaborators
-- add GitHub username
 
 
