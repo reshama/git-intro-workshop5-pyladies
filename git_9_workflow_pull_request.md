@@ -29,9 +29,9 @@ syntax:
 ### Step 5:  create a file
 - create a folder with your name here:  `/Users/reshamashaikh/git_work/python_advanced/submissions`
 - `cd` into this folder, create a folder with your name
-    - Ex:  `/reshama/`
+    >example:  `/reshama/`
 - create a Python file with your name
-    - Ex: `reshama.py`
+    >example:  `reshama.py`
 
 ### Step 6:  start tracking the file
 syntax:  
@@ -45,7 +45,7 @@ syntax:
 ### Step 8:  finalize the change:  `push` changes to your 'working branch'
 syntax:  
 `git push origin branch_wip`  
-example:  
+>example:  
 `git push origin reshama_wip`
 
 ### Step 9:  On GitHub, submit a pull request (green button)
