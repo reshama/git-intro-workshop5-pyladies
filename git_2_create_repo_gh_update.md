@@ -127,11 +127,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 ~/git_work/starting_git  master ✗                                                 14m ◒  
 ▶ 
 ```
----
 
-## Extra
-## Let's delete (`git rm`) and rename (`git mv`) some files
-- do examples
 
 
 
