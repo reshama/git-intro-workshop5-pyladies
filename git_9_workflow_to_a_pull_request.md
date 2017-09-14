@@ -3,9 +3,9 @@
 
 [Step 1:  fork the repo](#section-1)  
 [Step 2:  clone the repo](#section-2)  
-[Step 1:  fork the repo](#section-1)  
-[Step 1:  fork the repo](#section-1)  
-[Step 1:  fork the repo](#section-1)  
+[Step 3:  add an `upstream` remote](#section-3)  
+[Step 4:  create a working branch](#section-4)  
+[Step 5:  switch to working branch](#section-5)  
 
 
 ### <a name="section-1"></a>Step 1:  fork the repo
@@ -18,19 +18,20 @@ syntax:
 `git clone https://github.com/reshamas/python_advanced.git`
 
 
-### Step 3:  add an `upstream` remote
+### <a name="section-3"></a>Step 3:  add an `upstream` remote
 syntax:  
 `git remote add upstream <original url>`  
 >example:  
 `git remote add upstream https://github.com/WiMLDS/python_advanced.git`
 
-### Step 4:  create a working branch
+
+### <a name="section-4"></a>Step 4:  create a working branch
 syntax:  
 `git branch <new_branch_name>`    
 >example:  
 `git branch reshama_wip`
 
-### Step 5:  switch to working branch
+### <a name="section-5"></a>Step 5:  switch to working branch
 syntax:  
 `git checkout <branch_name>`
 >example:  
