@@ -1,4 +1,4 @@
-# Forks, Remotes & Branches
+# Forks & Remotes
 
 ---
 ## Forking a Repo
@@ -80,35 +80,6 @@ git remote add upstream https://github.com/WiMLDS/python_advanced.git
 ```bash
 git remote -v
 ```
-
----
-## Branches
-Branching means you diverge from the main line of development and continue to do work without changing the main line
-
-
-### Create a branch
-```bash
-git branch
-git branch reshama_wip
-git branch
-```
-
-
-### Switch to working branch
-```bash
-git checkout reshama_wip
-```
-
----
-
-### Aside: Working Practice
-#### Launch notebook from working branch (leave master branch intact)
-```bash
-~/git_work/data-science-from-scratch  reshama_wip ✔                                498d  
-▶ jupyter notebook
-```
-
-
 
 
 
