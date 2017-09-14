@@ -11,6 +11,7 @@
 
 
 ---
+## Starting out with Branches
 ### Create a branch
 ```bash
 git branch
@@ -81,7 +82,7 @@ git checkout branch_wip myfolder/**
 
 ---
 
-### Aside: Working Practice
+## Aside: Working Practice
 #### Launch notebook from working branch (leave master branch intact)
 ```bash
 ~/git_work/data-science-from-scratch  reshama_wip ✔                                498d  
