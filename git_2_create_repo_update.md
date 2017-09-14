@@ -66,11 +66,15 @@ drwxr-xr-x  6   204 Nov 14 11:48 starting_git
 ~/git_work/starting_git  master ✔                                                    6m  
 ▶ 
 ```
+## Check out the remote
+**Remotes** are copies of a repo on another computer **(or on a service like Github)**  
 
-### Check out the remote
-Note:  
-- a 'remote' is a copy of a repository
-- notice you have push and pull access  
+**Example:**  
+* `upstream` [organization repo]
+* `origin`   [your forked repo]
+
+**Note:**  
+* notice you have push and pull access  
 
 >my example  
 ```bash
