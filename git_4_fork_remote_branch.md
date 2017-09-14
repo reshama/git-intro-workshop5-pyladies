@@ -131,23 +131,16 @@ Switched to branch 'reshama_wip'
 ▶ 
 ```
 
-### Launch notebook from working branch (leave master branch intact)
+---
+
+### Working Practice
+#### Launch notebook from working branch (leave master branch intact)
 ```bash
 ~/git_work/data-science-from-scratch  reshama_wip ✔                                498d  
 ▶ jupyter notebook
 ```
 
----
 
-### Copy file/folder from one branch to current branch (`master`)
-
-Run this from the branch where you want the file to end up:  
-on:  `master` branch
-```
-git checkout branch_wip myfile.txt
-```
-
----
 
 
 
