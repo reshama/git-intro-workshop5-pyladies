@@ -43,7 +43,7 @@ syntax:
 
 ### Step 7:  log the change 
 syntax:  
-`git commit -m 'message'
+`git commit -m 'message`
 >example:  
 `git commit -m 'adding my python name file'`
 
