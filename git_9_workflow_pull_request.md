@@ -18,7 +18,7 @@ syntax:
 
 ### Step 3:  create a working branch
 syntax:  
-`git branch <new_branch_name>  
+`git branch <new_branch_name>`    
 >example:  
 `git branch reshama_wip`
 
@@ -42,6 +42,9 @@ syntax:
 `git add reshama.py`
 
 ### Step 7:  log the change 
+syntax:  
+`git commit -m 'message'
+>example:  
 `git commit -m 'adding my python name file'`
 
 ### Step 8:  finalize the change:  `push` changes to your 'working branch'
