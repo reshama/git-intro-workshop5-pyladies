@@ -59,6 +59,11 @@ git checkout reshama_wip
  * **Merge branches** (will merge specified <branchname> into current branch)  
     `$ git merge <branchname>`
 
+## Pushing to Branches
+`git push <remote_name> <branch_name>`
+Example:  
+`git push origin reshama_wip`
+
 ### Copy file/folder from one branch to current branch (`master`)
 
 Run this from the branch where you want the file to end up:  
