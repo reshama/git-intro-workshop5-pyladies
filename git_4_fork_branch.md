@@ -1,4 +1,4 @@
-# Fork & Clone a repo; use branches
+# Fork & Clone a repo; Use Branches
 
 ### Go to repo on GitHub
 In my personal account on GitHub, go to repo to be cloned.
@@ -87,6 +87,9 @@ origin	https://github.com/reshamas/data-science-from-scratch.git (push)
 ~/git_work/data-science-from-scratch  master ✔                                     498d  
 ▶ 
 ```
+# Branches
+Branching means you diverge from the main line of development and continue to do work without changing the main line
+
 
 ### Create a branch
 ```bash
