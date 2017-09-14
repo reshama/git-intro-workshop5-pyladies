@@ -4,9 +4,9 @@ task:  sync repos (add changes from local computer to GitHub repo)
 ## Git Flow 
 | #     | Command                   | Step  | Description      |
 |-------|---------------------------| -----|------------------|
-|  1    | `git add <filename>`      | begin tracking a file | adds a change in the working directory to the staging area; tells Git that you want to include updates to a particular file in the next commit.  |    
-|  2    | `git commit -m "message"` | log the change | changes are recorded in Git |  
-|  3    | `git push`                | finalize the change | changes are pushed from Git (local, terminal) to GitHub (browser account) | 
+|  Step 1    | `git add <filename>`      | begin tracking a file | adds a change in the working directory to the staging area; tells Git that you want to include updates to a particular file in the next commit.  |    
+|  Step 2    | `git commit -m "message"` | log the change | changes are recorded in Git |  
+|  Step 3    | `git push`                | finalize the change | changes are pushed from Git (local, terminal) to GitHub (browser account) | 
  
 ---
 
@@ -18,7 +18,7 @@ task:  sync repos (add changes from local computer to GitHub repo)
 
 ## Git:  add, commit and push a file
 
-### `git add` a file
+### Step 1:  `git add` a file
 This sets a file for staging:  
 `git add print_name.py`  
 
@@ -49,7 +49,7 @@ Untracked files:
 ▶ 
 ```
 
-### `git commit -m 'message'`
+### Step 2:  `git commit -m 'message'`
 
 ```bash
 ▶ git commit -m 'adding file that prints my name'
@@ -73,7 +73,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 ▶ 
 ```
 
-### `git push` (push changes up to GitHub browser)
+### Step 3:  `git push` (push changes up to GitHub browser)
 
 ```bash
 ▶ git push
