@@ -25,3 +25,5 @@ https://github.com/WiMLDS/python_advanced
 ### Step 8:  Push changes to your 'working branch'
 `git push origin branch_wip`  
 >`git push origin reshama_wip`
+
+### Step 9:  On GitHub, submit a pull request (green button)
