@@ -25,9 +25,9 @@ Email:   rs2715@stern.nyu.edu
 
 #### Helpers (Teaching Assistants)
 * [Emily Chen](https://www.linkedin.com/in/emchennyc/)
-* [Tiby Kantrowitz](https://www.linkedin.com/in/tiby-kantrowitz-b705221/)
 * [Sam Falk](https://www.linkedin.com/in/samjfalk/)
 * [Antonia Blair](https://www.linkedin.com/in/antonia-blair-31767a32/)
+* [Jon Banafanto](https://www.linkedin.com/in/jonathan-banafato-104b3217/)
 
 ---
 
