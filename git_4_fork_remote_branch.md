@@ -1,4 +1,4 @@
-# Fork & Clone a repo; Use Branches
+# Forks, Remotes & Branches
 
 ### Go to repo on GitHub
 In my personal account on GitHub, go to repo to be cloned.
@@ -77,6 +77,14 @@ total 40
 drwxr-xr-x  37   1258 Nov 14 11:29 code
 -rw-r--r--   1   9600 Nov 14 11:29 links.md
 ```
+
+# Remotes 
+Remotes are copies of a repo on another computer **(or on a service like Github)**  
+
+Example:  
+* `upstream` [organization repo]
+* `origin`   [your forked repo]
+
 
 #### List remotes
 ```bash
