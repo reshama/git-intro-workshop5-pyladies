@@ -1,5 +1,6 @@
 # Forks, Remotes & Branches
 
+---
 ## Forking a Repo
 ### Go to repo on GitHub
 In my personal account on GitHub, go to repo to be cloned.
@@ -52,7 +53,8 @@ In terminal:
 ls
 ```
 
-## Remotes 
+---
+## Adding a Remote
 Remotes are copies of a repo on another computer **(or on a service like Github)**  
 
 Example:  
@@ -79,7 +81,7 @@ git remote add upstream https://github.com/WiMLDS/python_advanced.git
 git remote -v
 ```
 
-
+---
 ## Branches
 Branching means you diverge from the main line of development and continue to do work without changing the main line
 
