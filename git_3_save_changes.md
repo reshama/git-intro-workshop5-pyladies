@@ -73,8 +73,9 @@ nothing added to commit but untracked files present (use "git add" to track)
 ▶ 
 ```
 
-### Step 3:  `git push origin master` (push changes up to GitHub browser)
-### Step 3 shortcut:  `git push`
+### Step 3 (Take 1):  `git push origin master` (push changes up to GitHub browser)
+or
+### Step 3 (Take 2) shortcut:  `git push`
 
 ```bash
 ▶ git push
