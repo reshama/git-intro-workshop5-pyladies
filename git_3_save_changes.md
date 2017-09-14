@@ -6,7 +6,7 @@ task:  sync repos (add changes from local computer to GitHub repo)
 |-------|---------------------------| -----|------------------|
 |  Step 1    | `git add <filename>`      | begin tracking a file | adds a change in the working directory to the staging area; tells Git that you want to include updates to a particular file in the next commit.  |    
 |  Step 2    | `git commit -m "message"` | log the change | changes are recorded in Git |  
-|  Step 3    | `git push`                | finalize the change | changes are pushed from Git (local, terminal) to GitHub (browser account) | 
+|  Step 3    | `git push` / `git push origin master`                | finalize the change | changes are pushed from Git (local, terminal) to GitHub (browser account) | 
  
 ---
 
@@ -73,7 +73,8 @@ nothing added to commit but untracked files present (use "git add" to track)
 ▶ 
 ```
 
-### Step 3:  `git push` (push changes up to GitHub browser)
+### Step 3:  `git push origin master` (push changes up to GitHub browser)
+### Step 3 shortcut:  `git push`
 
 ```bash
 ▶ git push
