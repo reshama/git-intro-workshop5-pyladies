@@ -17,8 +17,10 @@ syntax:
 `git remote add upstream https://github.com/WiMLDS/python_advanced.git`
 
 ### Step 3:  create a working branch
-list branches:  `git branch`  
-create new branch:  `git branch reshama_wip`
+syntax:  
+`git branch <new_branch_name>  
+>example:  
+`git branch reshama_wip`
 
 ### Step 4:  switch to working branch
 syntax:  
@@ -44,7 +46,7 @@ syntax:
 
 ### Step 8:  finalize the change:  `push` changes to your 'working branch'
 syntax:  
-`git push origin branch_wip`  
+`git push <remote_name> <branch_name>`  
 >example:  
 `git push origin reshama_wip`
 
