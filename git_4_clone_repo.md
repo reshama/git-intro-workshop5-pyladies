@@ -5,11 +5,6 @@
 
 ![orphan black](images/orphan_black.jpg)
 
-
-![](http://cdn.playbuzz.com/cdn/34e4af64-b5d3-48ae-8188-875daeba6aa4/faf33d89-04bc-4aa8-a1d0-dd2859256268_560_420.jpg =250x250)
-
-<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjZ0OiIlNzWAhVG7CYKHWmIDXUQjRwIBw&url=http%3A%2F%2Fwww.playbuzz.com%2Forphanbrochu10%2Fwhich-orphan-black-character-are-you&psig=AOvVaw21nNRqls_4UMMar37-KAb2&ust=1507384755048187" data-canonical-src="https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png" width="200" height="400" />
-
 ---
 
 ## Select green button "Clone or download" and copy url
