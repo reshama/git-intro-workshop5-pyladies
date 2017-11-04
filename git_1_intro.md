@@ -21,8 +21,9 @@ It also includes some very nice tools for software projects, like Markdown READM
 	* *Track steps* — What happened while you were sleeping
 	* *Branching and merging* — Work in parallel and bring it back together
 	
-
-
+---
+## Markdown
+A way of quickly creating formatted text
  
 ---
 ## Extras 
